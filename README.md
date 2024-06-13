@@ -1,1 +1,1 @@
-# Mapping-in-Spring-Boot-1
+# SpringBoot-Bidirectional-Mapping
